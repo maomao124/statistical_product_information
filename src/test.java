@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Project name(项目名称)：统计商品信息
+ * Project name(项目名称)：统计商品信息 statistical_product_information
  * Package(包名): PACKAGE_NAME
  * Author(作者）: mao
  * Author QQ：1296193245
